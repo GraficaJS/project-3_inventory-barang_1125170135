@@ -77,7 +77,7 @@ Dokumentasi screenshot:
 
 | Login | Dashboard | Barang |
 |-------|-----------|--------|
-| <img width="383" height="842" alt="1  Login" src="https://github.com/user-attachments/assets/655e02bb-09eb-45dd-9281-662de248fe88" />| <img width="384" height="841" alt="2  Dashboard" src="https://github.com/user-attachments/assets/99b3ef8f-6143-48c7-beac-33a0e54cfc85" /> | <img width="383" height="835" alt="3  Barang" src="https://github.com/user-attachments/assets/ca736f28-6a95-4f6b-bcb2-af7995545337" /> |
+| <img width="383" height="842" alt="1  Login" src="https://github.com/user-attachments/assets/655e02bb-09eb-45dd-9281-662de248fe88" />| <img width="384" height="841" alt="2  Dashboard" src="https://github.com/user-attachments/assets/7d0c7b5f-e51b-468f-a580-f74962381c40" /> | <img width="383" height="835" alt="3  Barang" src="https://github.com/user-attachments/assets/ca736f28-6a95-4f6b-bcb2-af7995545337" /> |
 
 
 | Barang Masuk | Notifikasi Barang Masuk |
