@@ -74,10 +74,12 @@ Aplikasi ini dikembangkan dengan tujuan untuk:
 Aplikasi memiliki beberapa fitur utama sebagai berikut.
 ##Screenshot Aplikasi##
 Dokumentasi screenshot:
-Login
-<img width="383" height="842" alt="1  Login" src="https://github.com/user-attachments/assets/655e02bb-09eb-45dd-9281-662de248fe88" />
+| Login | Dashboard |
+|-------|-----------|
+| <img width="383" height="842" alt="1  Login" src="https://github.com/user-attachments/assets/655e02bb-09eb-45dd-9281-662de248fe88" />| <img width="384" height="841" alt="2  Dashboard" src="https://github.com/user-attachments/assets/99b3ef8f-6143-48c7-beac-33a0e54cfc85" /> |
+
 Dashboard
-<img width="384" height="841" alt="2  Dashboard" src="https://github.com/user-attachments/assets/99b3ef8f-6143-48c7-beac-33a0e54cfc85" />
+
 
 
 
