@@ -74,26 +74,30 @@ Aplikasi ini dikembangkan dengan tujuan untuk:
 Aplikasi memiliki beberapa fitur utama sebagai berikut.
 ##Screenshot Aplikasi##
 Dokumentasi screenshot:
-1. Login<img width="383" height="842" alt="1  Login" src="https://github.com/user-attachments/assets/945a62ee-e361-4e7e-a8ea-ea582111a27d" />
-3. Dashboard
-   <img width="384" height="841" alt="2  Dashboard" src="https://github.com/user-attachments/assets/1ab36ee5-d887-4135-b9c0-592e957c8b74" />
-4. Barang
+Login
+<img width="383" height="842" alt="1  Login" src="https://github.com/user-attachments/assets/655e02bb-09eb-45dd-9281-662de248fe88" />
+Dashboard
+<img width="384" height="841" alt="2  Dashboard" src="https://github.com/user-attachments/assets/99b3ef8f-6143-48c7-beac-33a0e54cfc85" />
+
+
+
+5. Barang
    <img width="383" height="835" alt="3  Barang" src="https://github.com/user-attachments/assets/ca736f28-6a95-4f6b-bcb2-af7995545337" />
-5. Barang Masuk
+6. Barang Masuk
    <img width="378" height="838" alt="3 3 Barang Masuk Kabel Belden" src="https://github.com/user-attachments/assets/22fd6944-52f2-400e-9fd2-74e6fd0f3f3d" />
-6. Notifikasi Barang Masuk
+7. Notifikasi Barang Masuk
    <img width="387" height="845" alt="3 4 Barang masuk Notifikasi " src="https://github.com/user-attachments/assets/f2c3e661-1cea-40f7-af35-0283c5610833" />
-7. Barang Keluar
+8. Barang Keluar
     <img width="384" height="853" alt="4 1 Barang Keluar Kabel Lan" src="https://github.com/user-attachments/assets/9cc4629a-14cd-476e-a60a-55810f5740fa" />
-8. Notifikasi Barang Keluar
+9. Notifikasi Barang Keluar
     <img width="345" height="761" alt="4 2 Barang Keluar Kabel Lan (SDA)" src="https://github.com/user-attachments/assets/54a9d2cb-3203-4736-8587-c980ca6a745f" />
-9. Barang Kembali/Retur
+10. Barang Kembali/Retur
     <img width="344" height="757" alt="5  Barang Kembali (Kabel LAN)" src="https://github.com/user-attachments/assets/f57d66b4-7a45-481d-b0a2-eb41770dd47d" />
-10. Notifikasi Barang Kembali/Retur
+11. Notifikasi Barang Kembali/Retur
     <img width="349" height="748" alt="5  Notifikasi Barang Kembali" src="https://github.com/user-attachments/assets/c8028fb5-0de9-41e8-a649-1c8672db299c" />
-11. Histori Barang Keluar dan Masuk
+12. Histori Barang Keluar dan Masuk
     <img width="346" height="748" alt="6  Histori Barang Masuk dan Keluar" src="https://github.com/user-attachments/assets/e6a37ba1-e2d8-4e77-83ec-ee83b319eacf" />
-12. Profil
+13. Profil
     <img width="346" height="746" alt="7  Profil" src="https://github.com/user-attachments/assets/52dfb665-34c6-4df6-9bcb-811a7f809dcb" />
 
 ## 1. Splash Screen
